@@ -26,7 +26,7 @@ fn main() {
             Ordering::Less => println!("Too Small \n"),
             Ordering::Greater => println!("Too Large \n"),
             Ordering::Equal => {
-                println!("\n \n Correct, You Win!! XD");
+                println!("\n \n Correct, You Win!!");
                 break;
             },
         }
